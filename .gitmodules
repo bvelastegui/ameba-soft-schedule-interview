@@ -1,0 +1,3 @@
+[submodule "laradock-ameba-soft-schedule-interview"]
+	path = laradock-ameba-soft-schedule-interview
+	url = git@github.com:bvelastegui/laradock-ameba-soft-schedule-interview.git
